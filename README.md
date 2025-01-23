@@ -21,7 +21,6 @@ Meanwhile I study Computer Engineering at UP.
 <br>
 <br>
 <br>
-<br>
 
 <p align="center">
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aangelainis&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
