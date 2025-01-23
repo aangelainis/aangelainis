@@ -5,11 +5,24 @@
 <br>
 <br>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=aangelainis&show_icons=true&title_color=5a3bbf&text_color=4c475e&icon_color=0a0221&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do stat do github">
 
-### Olá, meu nome é Angelina!
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=aangelainis&theme=blueberry&show_icons=true&hide_border=true&count_private=true">
+
+### Hello, my name is Angelina!
 ---
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<p align='right'>
 
-<p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
+I'm currently working at Bosch as a cyber systems technician apprentice.
+
+Meanwhile I study Computer Engineering at UP.
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aangelainis&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
+</p>
