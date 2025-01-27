@@ -6,7 +6,7 @@
 <br>
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=aangelainis&theme=blueberry&show_icons=true&hide_border=true&count_private=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=aangelainis&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
 
 ### Hello, my name is Angelina!
 ---
@@ -23,5 +23,6 @@ Meanwhile I study Computer Engineering at UP.
 <br>
 
 <p align="center">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aangelainis&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
+  <img width="500" src="https://streak-stats.demolab.com?user=aangelainis&theme=tokyonight&hide_border=true">
 </p>
+
