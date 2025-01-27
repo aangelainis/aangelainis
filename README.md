@@ -13,7 +13,7 @@
 
 <p align='right'>
 
-I'm currently working at Bosch as a cyber systems technician apprentice.
+I'm currently working at Bosch as a cybersystems technician apprentice.
 
 Meanwhile I study Computer Engineering at UP.
 </p>
